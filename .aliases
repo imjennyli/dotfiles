@@ -1,0 +1,18 @@
+#useful aliases
+
+#navigation aliases
+
+#Git aliases
+alias ga='git add'
+alias gd='git diff'
+alias diff-c='git diff --cached'
+alias gs='git status'
+alias gl='git log'
+alias gb='git branch -a'
+alias fetch='git fetch --all'
+
+alias pop='git stash pop'
+alias stash='git stash'
+alias sl='git stash list'
+
+#Android aliases
