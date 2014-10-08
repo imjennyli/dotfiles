@@ -1,6 +1,11 @@
 #useful aliases
 
 #navigation aliases
+alias u='cd ../'
+alias uu='cd ../../'
+alias uuu='cd ../../../'
+alias uuuu='cd ../../../../'
+alias uuuuu='cd ../../../../../'
 
 #Git aliases
 alias ga='git add'
